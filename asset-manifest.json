@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6138d3de.chunk.css",
+    "main.js": "/static/js/main.d148849d.chunk.js",
+    "main.js.map": "/static/js/main.d148849d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6aa41b0e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6aa41b0e.js.map",
+    "static/js/2.3c89a3a2.chunk.js": "/static/js/2.3c89a3a2.chunk.js",
+    "static/js/2.3c89a3a2.chunk.js.map": "/static/js/2.3c89a3a2.chunk.js.map",
+    "static/js/3.ab84e481.chunk.js": "/static/js/3.ab84e481.chunk.js",
+    "static/js/3.ab84e481.chunk.js.map": "/static/js/3.ab84e481.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6138d3de.chunk.css.map": "/static/css/main.6138d3de.chunk.css.map",
+    "static/js/2.3c89a3a2.chunk.js.LICENSE.txt": "/static/js/2.3c89a3a2.chunk.js.LICENSE.txt",
+    "static/media/1.5f2bc080.jpg": "/static/media/1.5f2bc080.jpg",
+    "static/media/reset.css": "/static/media/Cagliostro-Regular.5f624d19.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa41b0e.js",
+    "static/js/2.3c89a3a2.chunk.js",
+    "static/css/main.6138d3de.chunk.css",
+    "static/js/main.d148849d.chunk.js"
+  ]
+}
